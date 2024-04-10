@@ -1,0 +1,29 @@
+.ghostface{
+  width:100px;
+  object-fit:cover;
+  border-radius:50px;
+  border:none;
+  object-position:center;
+  vertical-align:middle;
+}
+
+.searchbar{
+  vertical-align:middle;
+  width:250px;
+  height:30px;
+  font-family:arial;
+  font-size:15px;
+  border:none;
+}
+
+.tweet{
+  vertical-align:middle;
+  font-weight:bold;
+  background-color:rgb(29, 155, 240);
+  color:white;
+  border:none;
+  width:75px;
+  height:30px;
+  border-radius:15px;
+
+}

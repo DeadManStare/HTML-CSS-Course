@@ -1,0 +1,17 @@
+.search-bar-1{
+  height:30px;
+  border-radius:6px;
+  padding-left:10px;
+  border-width:1px;
+  border-color:gray;
+}
+
+.search-bar-2{
+  padding-left:10px;
+  border:none;
+  margin-left:12px;
+  height:30px;
+  border-radius:15px;
+  width:300px;
+  box-shadow:5px 5px 10px rgba(0, 0, 0, 0.15);
+}
